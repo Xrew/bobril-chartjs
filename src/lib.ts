@@ -35,7 +35,7 @@ export const create = b.createComponent<IData>({
         ctx.chart = new Chart(me.element, {
             type: ctx.data.type,
             data: ctx.data.data,
-            options: ctx.data.options && ctx.data.options
+            options: ctx.data.options
         });
     }
 });
