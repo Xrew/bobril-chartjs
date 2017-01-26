@@ -1,0 +1,38 @@
+{
+  "name": "bobril-chartjs",
+  "version": "1.0.0",
+  "description": "Bobril module to using popular library Chart.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typescript": {
+    "main": "index.ts"
+  },
+  "bobril": {
+    "title": "Bobril Chart.js",
+    "example": "examples/example.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xrew/bobril-chartjs.git"
+  },
+  "keywords": [
+    "bobril",
+    "chart.js"
+  ],
+  "author": "Tomáš Sychra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xrew/bobril-chartjs/issues"
+  },
+  "homepage": "https://github.com/Xrew/bobril-chartjs#readme",
+  "dependencies": {
+    "bobril": "^5.1.0",
+    "chart.js": "^2.4.0"
+  },
+  "devDependencies": {
+    "bobril-flex-ie10": "^1.1.1",
+    "bobril-m": "^0.8.0"
+  }
+}
