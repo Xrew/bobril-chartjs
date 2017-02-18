@@ -1,6 +1,6 @@
 {
   "name": "bobril-chartjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bobril module to using popular library Chart.js.",
   "main": "index.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/Xrew/bobril-chartjs#readme",
   "dependencies": {
-    "bobril": "^5.1.0",
-    "chart.js": "^2.4.0"
+    "bobril": "5.3.1",
+    "chart.js": "2.5.0"
   },
   "devDependencies": {
     "bobril-flex-ie10": "^1.1.1",
