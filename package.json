@@ -1,6 +1,6 @@
 {
   "name": "bobril-chartjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bobril module to using popular library Chart.js.",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 import * as b from 'bobril';
 
-b.asset('node_modules/chart.js/dist/Chart.bundle.js');
+b.asset('node_modules/chart.js/dist/Chart.bundle.min.js');
 
 declare var Chart: any;
 
